@@ -2920,7 +2920,7 @@
 
 	#banner {
 		padding: 14em 0 12em 0;
-		background-image: url(../../images/banner2.jpg);
+		background-image: url(../../images/banner.jpg);
 		background-size: cover;
 		background-position: center top;
 		background-repeat: no-repeat;
@@ -2933,9 +2933,9 @@
 			-ms-transition: opacity 1s ease-in-out, -ms-transform 0.75s ease-in-out;
 			transition: opacity 1s ease-in-out, transform 0.75s ease-in-out;
 			opacity: 1;
-			border-radius: 25px;
-			padding: 25px;
 			background-color: #fff;
+			border-radius: 25px;
+			padding: 15px;
 		}
 
 		#banner h1 {
@@ -3149,7 +3149,7 @@
 		}
 
 		#footer .icon {
-			color: #f6755e;
+			color: #FFC4CA;
 		}
 
 		#footer a {
